@@ -14,7 +14,7 @@ A Spotify clone project i made using NEXT.js to practice my dev skills and enhan
 
 ## Demo
 
-You can check out the live demo of the app [here](<!-- add link -->).
+You can check out the live demo of the app [here](https://spotify-clone-zeta-rose.vercel.app/).
 
 ## Features
 
