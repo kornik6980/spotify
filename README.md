@@ -52,7 +52,7 @@ App includes features like:
 
 ## Installation
 
-1.  Clone the repository: `git clone <!-- add link -->`
+1.  Clone the repository: `git clone https://github.com/kornik6980/spotify`
 2.  Navigate to the directory
 3.  Install dependencies: `npm install`
 
